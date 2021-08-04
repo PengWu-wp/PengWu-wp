@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PengWu-wp 吴芃.
-- 👀 I’m interested in SDN and NFV.
-- 🌱 I’m currently learning eBPF, XDP, DPDK, and redis.
+- 👀 I’m interested in Programmable Networks.
+- 🌱 I’m currently learning eBPF, XDP, DPDK, and SmartNICs.
 - 📫 You can contact me at wupeng426@bupt.edu.com.
 
 <!---
