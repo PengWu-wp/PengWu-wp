@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @PengWu-wp 吴芃.
 - 👀 I’m interested in Programmable Networks.
 - 🌱 I’m currently learning eBPF, XDP, DPDK, and SmartNICs.
-- 📫 You can contact me at wupeng426@bupt.edu.cn or wupeng5828@163.com 
+- 📫 You can contact me at wupeng5828@163.com 
 
 My website is [http://www.wupeng28.top/](http://www.wupeng28.top/)
 
